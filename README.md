@@ -20,7 +20,7 @@ pkg install python
 
 pkg install python2
 
-pkg install python
+pkg install python3
 
 pkg install git
 
@@ -28,6 +28,10 @@ git clone https://github.com/Yousuf9963/get-my-ip.git
 
 cd get-my-ip
 
+chmod +x *
+
 python3 get-my-ip.py
 
-# Please Follow me
+# Please Support me
+
+https://www.buymeacoffee.com/junioprogrammer
